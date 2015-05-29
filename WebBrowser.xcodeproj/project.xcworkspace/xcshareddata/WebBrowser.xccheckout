@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91C1B3B5-08DE-4F27-88B7-49640474E525</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2D39241063B5B7D99E9DAB099D0786EA15D00F26</key>
+		<string>github.com:MaxChen/SwiftWebBrowser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WebBrowser.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2D39241063B5B7D99E9DAB099D0786EA15D00F26</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:MaxChen/SwiftWebBrowser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2D39241063B5B7D99E9DAB099D0786EA15D00F26</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2D39241063B5B7D99E9DAB099D0786EA15D00F26</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WebBrowser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
